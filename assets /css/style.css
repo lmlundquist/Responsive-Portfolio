@@ -4,131 +4,20 @@
   margin: auto;
 }
 
-body {
+.body {
     background-image: url(../images/hotel-wallpaper/hotel-wallpaper.png);
     background-size: repeat;
 }
 
-.first-name (
-  font-family: 'Lobster', cursive;
- 
-)
-.header {
-  position: relative;
-  padding: 20px;
-  background: #ffffff;
-  border-color: #cccccc;
-  border: 1px
-  height: 35px;
-  top; 0px;
+#firstName {
+  font-family: 'Cedarville Cursive', cursive;
 }
 
-ul {
-  position: absolute;
-  right: 1.5px;
-  top: 0px;
+#navBar {
+  padding-block: 10px;
 }
 
-.boxed {
-  position: relative;
-  border: 1px;
-  background-color: #4aaaa5;
-  width: 110px;
-  height: 45px;
-  right: -15%;
-  bottom: -20px;
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
-  font-size: 10px;
-}
 
-.portfolio-hangman { 
-  position: relative;
-  width: 200px;
-  border: 5px;
-  padding:50px;
-  background-color: teal;
-  text-align: center;
-  display:inline-block;
-}
-.portfolio-rpg { 
-  position: relative;
-  width: 200px;
-  border: 5px;
-  padding:50px;
-  background-color: teal;
-  text-align: center;
-  display: inline-block;
-}
-.portfolio-trivia { 
-  position: relative;
-  width: 200px;
-  border: 5px;
-  padding:50px;
-  background-color: teal;
-  text-align: center;
-  display: inline-block;
-}
-.portfolio-rutgers { 
-  position: relative;
-  width: 200px;
-  border: 5px;
-  padding:50px;
-  background-color: teal;
-  text-align: center;
-  display: inline-block;
-}
-.portfolio-rps { 
-  position: relative;
-  width: 200px;
-  border: 5px;
-  padding:50px;
-  background-color: teal;
-  text-align: center;
-  display: inline-block;
-}
-
-input[type=text] {
-  width: 75%;
-}
-
-input[name=email] {
-  width: 75%;
-}
-
-input[name=message] {
-  width: 75%;
-  height: 150px;
-  padding: 12px 20px;
-  box-sizing: border-box;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background-color: white;
-  resize: none;
-}
-
-input [type=submit] {
-  width: 25%;
-  background: #4aaaa5;
-}
-
-.footer {
-  border-top: 8px solid #4aaaa5
-  position: sticky;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
-  background-color: gray;
-  height: 50px;
-  margin: auto;
-}
-
-img [class=personal-pic] {
-  float: left;
-  text: wrap;
-  clear: left;
-}
 
 
 
